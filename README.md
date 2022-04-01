@@ -39,18 +39,7 @@ alert("ЗДРАВСТВУЙТЕ");
 Очень люблю играть в доту, вот картинки моих любимых героев<br>
 </xyz></div>
 	
-<div>
-<table style="margin:auto"; border="10";>
-<tr>
-<th><img src="https://i.ytimg.com/vi/bdXHThN4Rs4/maxresdefault.jpg"width="500px" height="300px"></th>
-<th><img src="https://dota2.ru/img/memes/2019/08/61592.jpg?1566077403"width="500px" height="300px"></th>
-</tr>
-<tr>
-<th><img src="https://i.pinimg.com/originals/84/4d/17/844d17c7106245931464cc0ff2c43f71.jpg"width="500px" height="300px"></th>		
-<th><img src="https://i.playground.ru/i/pix/1601736/image.jpg" width="500px" height="300px"></th>
-</tr>
-</table>
-</div>
+
 <div style="text-align:center;";>
 <a href="https://vk.com/gangmemec"><img src="https://avatars.mds.yandex.net/i?id=d577be641c88b29311c1ddd07f1cbe05-5870145-images-thumbs&n=13" height="300px">
 </a>
